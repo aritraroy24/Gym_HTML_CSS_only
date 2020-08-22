@@ -2,9 +2,9 @@
 The basic html structure has been built here
 # :small_orange_diamond: assets
 This folder contains the following subfolders -
-### :black_small_square: css
+### :small_blue_diamond: css
    * All the styles have been introduced here
-### :black_small_square: images
+### :small_blue_diamond: images
    * All the images used in this webpage have been kept here
-### :black_small_square: js
+### :small_blue_diamond: js
    * For this webpage javascript language has not been introduced.
