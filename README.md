@@ -17,3 +17,6 @@ This folder contains the following subfolders -
    * This is a website made with only ***HTML5*** and ***CSS3***(without *flex*)
    * Also, it is ***not a responsive website***. It's basic designed website.
    * So please note that ```no functioning of the form is there```
+
+-------
+## ![Live Demo](https://aritraroy24.github.io/Gym_HTML_CSS_only/)
