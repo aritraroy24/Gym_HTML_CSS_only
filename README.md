@@ -19,4 +19,4 @@ This folder contains the following subfolders -
    * So please note that ```no functioning of the form is there```
 
 -------
-## ![Live Demo](https://aritraroy24.github.io/Gym_HTML_CSS_only/)
+## [Live Demo](https://aritraroy24.github.io/Gym_HTML_CSS_only/)
