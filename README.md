@@ -19,4 +19,6 @@ This folder contains the following subfolders -
    * So please note that ```no functioning of the form is there```
 
 -------
-## [Live Demo](https://aritraroy24.github.io/Gym_HTML_CSS_only/)
+## Live Demo :point_down:
+### [Fit-O-Fit Website](https://aritraroy24.github.io/Gym_HTML_CSS_only/)
+[![image](https://www.linkpicture.com/q/Screenshot-568.png)](https://www.linkpicture.com/view.php?img=LPic5fd477088653d855384627)
